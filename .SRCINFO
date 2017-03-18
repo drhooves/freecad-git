@@ -25,6 +25,7 @@ pkgbase = freecad-git
 	depends = xerces-c
 	depends = python2-pivy
 	depends = python2-pyside
+	depends = qtwebkit
 	depends = libtheora
 	depends = shared-mime-info
 	depends = vtk-qt4

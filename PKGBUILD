@@ -10,7 +10,7 @@ arch=('i686' 'x86_64')
 url='http://www.freecadweb.org/'
 license=('LGPL')
 depends=('boost-libs' 'curl' 'hicolor-icon-theme' 'libspnav' 'opencascade7'
-         'med' 'xerces-c' 'python2-pivy' 'python2-pyside'
+         'med' 'xerces-c' 'python2-pivy' 'python2-pyside' 'qtwebkit'
 	 'libtheora' 'shared-mime-info' 'vtk-qt4' 'jsoncpp')
 makedepends=('git' 'boost' 'cmake' 'coin' 'python2-pyside-tools'
              'desktop-file-utils' 'eigen' 'gcc-fortran' 'swig')
